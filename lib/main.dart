@@ -364,7 +364,10 @@ class DisplayAmountState extends State<DisplayAmount> with SingleTickerProviderS
         },
       ),
     );
-    setState(() {});
+    setState(() {
+      _category = 'Total';
+      _color = Colors.grey;
+    });
   }
 
   List<MonthlyData> toMonthlyData(List<Payment> payments) {
