@@ -19,7 +19,7 @@ The user has the ability to view their monthly payments in a graph form or a lis
 
 ![List view2](https://drive.google.com/uc?export=view&id=13v3Y7taY05jG-OWLn-6gWBjCTYtkg95N)
 
-![Edit payment](https://drive.google.com/uc?export=view&id=1UKs896JtsSdPSwTnW-YiabbUV3sawd4A
+![Edit payment](https://drive.google.com/uc?export=view&id=1UKs896JtsSdPSwTnW-YiabbUV3sawd4A)
 
 ![Add payment1](https://drive.google.com/uc?export=view&id=1qK3H4tVvH5WQQ6ScS0pPf3TkMlDtnkTv)
 
