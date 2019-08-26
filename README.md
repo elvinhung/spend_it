@@ -5,7 +5,7 @@ A new Flutter mobile application to track monthly expenses.
 ## Description
 
 This mobile app is built in Flutter using the Dart language, so it is compatible with both Andriod and iOS devices.
-The user has the ability to view their monthly payments in a graph form or a list view. They have the ability to edit or delete previous payments and add new ones as well. They can view their payment history for previous months. I used SQLite to store my "payment" data in this app.
+The user has the ability to view their monthly payments in a graph form or a list view. They have the ability to edit or delete previous payments and add new ones as well. They can view their payment history for previous months. I used SQLite to store my "payment" data in this app. To prevent SQL injection attacks I have restricted the keyboards and types of characters the user can use.
 
 ## Images
 
