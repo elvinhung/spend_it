@@ -1,6 +1,6 @@
 # Spend It
 
-A new Flutter mobile application to track monthly expenses.
+A new Flutter mobile application to track monthly your expenses.
 
 ## Description
 
